@@ -15,6 +15,5 @@ dependencies:
   - intake=0.5.4
   - intake-esm=2019.12.13
   - intake-xarray=0.3.1
-prefix: C:\Users\gentemann\Miniconda3\envs\cloud_tutorial
 
 
