@@ -1,6 +1,8 @@
-# osm2020tutorial
-tutorial development for osm2020 pangeo tutorial
+# Pangeo Tutorial materials for AGU Ocean Sciences 2020
 
+This repository tutorial materials for a 30 min workshop that showcase Pangeo JupyterHub deployments. The notebooks directory has Jupyter notebooks that illustrate how to access data on the cloud. You can run these notebooks interactively on BinderHub services like MyBinder.org. Note that these are emphermal computing environments on Public infrastructure, so you may loose work, and don't store passwords
+
+[AGU 2020 Ocean Sciences Tutorial](https://agu.confex.com/agu/osm20/meetingapp.cgi/Session/85251)
 
 | AWS-specific content  | GCP-specific content |
 | ------------- | ------------- |
