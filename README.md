@@ -17,8 +17,6 @@ To explore *only* MUR SST on AWS, which will be faster because that is where it 
 
 ## Tutorial Highlights
 
-<div><center><img src="./images/pangeo_card_white.png" height="150"> <img src="./images/xarray.png" height="125"> <img src="./images/dask.png" height="125"> <img src="./images/jupyter.png" height="125"></center></div>
-
 -----
 
 - **[About Pangeo](https://pangeo.io/):** Pangeo is a community effort for big data in the geosciences using Python. A key component of the Pangeo effort is the improved integration of Xarray and Dask to enable analysis of very large datasets.
