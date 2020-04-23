@@ -6,10 +6,10 @@ This repository tutorial materials for a 30 min workshop that showcase Pangeo da
 
 [AGU 2020 Ocean Sciences Tutorial](https://agu.confex.com/agu/osm20/meetingapp.cgi/Session/85251)
 
-To explore 3 difference cloud-optimized datasets (MUR SST, AVISO, CMIP6), select GCP-specific content, and then, once the binder initializes, select 'GCP-notebooks'.
+To explore 3 difference cloud-optimized datasets (MUR SST, AVISO, CMIP6), select GCP-specific content, and then, once the binder initializes, select the button below 'Pangeo Binder GCE us-central1'.
 
 | [![badge](https://img.shields.io/static/v1.svg?logo=Jupyter&label=Pangeo+Binder&message=GCE+us-central1&color=blue)](https://binder.pangeo.io/v2/gh/pangeo-gallery/osm2020tutorial/master) |
 
-To explore *only* MUR SST on AWS, which will be faster because that is where it is stored, select AWS-specific content, and then, once the binder initializes, select 'AWS-notebooks'.
+To explore *only* MUR SST on AWS, which will be faster because that is where it is stored, select button below 'Pangeo Binder AWS US-west1', and then, once the binder initializes, select 'AWS-notebooks'.
 
 [![badge](https://img.shields.io/static/v1.svg?logo=Jupyter&label=Pangeo+Binder&message=AWS+us-west-2&color=orange)](https://aws-uswest2-binder.pangeo.io/v2/gh/pangeo-gallery/osm2020tutorial/master) 
