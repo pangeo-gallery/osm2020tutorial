@@ -11,5 +11,6 @@ dependencies:
   - cartopy
   - zarr
   - datashader
-
+  - intake
+  - intake-esm
 
