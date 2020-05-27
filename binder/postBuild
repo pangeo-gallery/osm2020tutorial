@@ -1,8 +1,10 @@
-#!/bin/bash
+#!/bin/bash -l
+
+export PANGEO_ENV="BINDER_TEMPLATE"
 
 jupyter labextension install --clean \
                             @jupyter-widgets/jupyterlab-manager \
                             dask-labextension \
                             @pyviz/jupyterlab_pyviz
 
-#EOF
+exec "$@"
