@@ -1,1 +1,2 @@
-FROM pangeo/pangeo-notebook-onbuild:2020.02.21-44459d8
+FROM pangeo/base-image:2020.05.10
+
