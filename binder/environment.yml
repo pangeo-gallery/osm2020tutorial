@@ -6,6 +6,6 @@ dependencies:
   - xarray
   - hvplot
   - fsspec
-  - warnings
+
   
 
