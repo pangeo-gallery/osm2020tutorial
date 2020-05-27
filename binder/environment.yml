@@ -6,5 +6,8 @@ dependencies:
   - xarray
   - hvplot
   - fsspec
+  - s3fs
+  - holoviews
+  - cartopy
 
 
