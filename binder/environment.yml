@@ -6,6 +6,5 @@ dependencies:
   - xarray
   - hvplot
   - fsspec
-  - dask
-  - dask-gateway  
+
 
