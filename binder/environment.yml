@@ -2,7 +2,7 @@ name: myenv
 channels:
   - conda-forge
 dependencies:
-  - pangeo-notebook==2020.11.18
+  - pangeo-notebook==2020.11.06
   - xarray
   - hvplot
   - fsspec
