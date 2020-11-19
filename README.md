@@ -12,7 +12,7 @@ To explore 3 difference cloud-optimized datasets (MUR SST, AVISO, CMIP6), select
 
 To explore *only* MUR SST on AWS, which will be faster because that is where it is stored, select button below 'Pangeo Binder AWS US-west1', and then, once the binder initializes, select 'AWS-notebooks'.
 
-[![badge](https://img.shields.io/static/v1.svg?logo=Jupyter&label=Pangeo+Binder&message=AWS+us-west-2&color=orange)](https://aws-uswest2-binder.pangeo.io/v2/gh/pangeo-gallery/default-binder/master?urlpath=git-pull?repo=https://github.com/pangeo-gallery/osm2020tutorial%26amp%3Burlpath=lab/tree/osm2020tutorial)
+[![badge](https://img.shields.io/static/v1.svg?logo=Jupyter&label=Pangeo+Binder&message=AWS+us-west-2&color=orange)](https://aws-uswest2-binder.pangeo.io/v2/gh/pangeo-data/pangeo-binder-template/master?urlpath==git-pull?repo=https://github.com/pangeo-gallery/osm2020tutorial%26amp%3Burlpath=lab/tree/osm2020tutorial)
 
 
 ## Tutorial Highlights
